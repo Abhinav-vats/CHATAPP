@@ -1,0 +1,29 @@
+include mongoose module
+
+initialize schema <- mongoose.schema
+Make database Connect ("mongodb://localhost:27017/chat")
+function connection_on('open')
+	print('Connected')
+function connection_on('error')
+	print('Could not connect')
+
+Define schema model_User{
+	name:String,
+	handle: String,
+    password: String,
+    phone:String,
+    email:String,
+    friends:[]
+},
+Define schema model_onlineUser{
+	handle:String,
+    connection_id:String	
+},
+Define schema model_message{
+	message : String,
+    sender  : String,
+    reciever: String,
+    date    : Date
+},
+
+

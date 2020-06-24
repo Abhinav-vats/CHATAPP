@@ -1,0 +1,5 @@
+1- register -> otp page -> verify -> if match add to database -> if not match re-enter the correct otp
+
+2- teacher's page mein report block ho jismein issue aur issue creator dono ho jisme report krte hi database mein report save ho aur issuer ki handle wali email id blocked id wali 
+	table mein jaye jisse dobara koi id na bna paye
+	

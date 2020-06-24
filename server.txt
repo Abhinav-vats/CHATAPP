@@ -1,0 +1,8 @@
+include express module
+include socket.io module
+include http module
+include ip module
+ 
+ initialize app <- express()
+ include controller.js module with parameter as app, socket.io
+ create node server and make it listen at 8080 port
