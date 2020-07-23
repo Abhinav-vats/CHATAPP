@@ -4,8 +4,7 @@ This is a chat application that can be used for local usage in a small network. 
 # Instructions to run
 Clone the project
 ```
-git clone https://github.com/sudheeshshetty/Chat.git
-```
+https://github.com/Abhinav-vats/CHATAPP.git```
 
 ### DataBase - Mongo
 * Check if mongodb service is running in your machine else start the service.
