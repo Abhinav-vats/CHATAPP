@@ -20,7 +20,7 @@
     "mongoose": "^4.6.1",
     "ng": "0.0.0",
     "node-localstorage": "^2.1.6",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "nodemon": "^1.19.4",
     "otp-generator": "^1.1.0",
     "popups": "^1.1.3",
