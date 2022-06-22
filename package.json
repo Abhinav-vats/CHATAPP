@@ -9,7 +9,7 @@
   "author": "Abhinav, Anubhav, Aniket, Utkarsh",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "body-parser": "^1.15.2",
     "date-and-time": "^0.13.1",
     "express": "^4.14.0",
